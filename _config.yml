@@ -1,7 +1,7 @@
 # main text of home
-name: Jesse C Laning
-title: Jesse C Laning
-bio: Physicist, Programmer, Walrus
+name: Brandon J Spirito
+title: Brandon J Spirito
+bio: Systems & Software Engineer
 
 # twitter summary info
 description: A blog about programming and stuff related
@@ -15,9 +15,9 @@ picture: assets/images/profile.jpeg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://jlaning.com/resume/
+resume-url: https://bspirito.github.io/resume/
 
-url: https://jlaning.com
+url: https://bspirito.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,30 +35,29 @@ disqus:
   categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: jesse.laning
-twitter: jamolnng
+# facebook: fb
+# twitter: tw
 # google: mygoogle
-instagram: thejesselaning
+# instagram: ig
 # pinterest: mypinterest
-linkedin: jesse-laning-13a797155
+# linkedin: ln
 # youtube: myyoutube
-spotify: jelaning
-github: jamolnng
+# spotify: 
+github: bspirito
 # lastfm: mylastfm
-stackoverflow: 1561291/jesse-laning
+# stackoverflow: 
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: thejesselaning@gmail.com
+email: bjspirito@gmail.com
 
 authors:
-    jesselaning:
-        name: Jesse C Laning
-        bio: Physicist, Programmer, Walrus
+    brandonspirito:
+        name: Brandon J Spirito
+        bio: Systems & Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: jamolnng
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
